@@ -52,7 +52,7 @@ Download and install Tesseract from the official repository:
 To run the application, simply execute the Python script:
 
 ```bash
-python casting_image_verification.py
+python app.py
 ```
 
 The webcam feed will appear, and the system will begin detecting and verifying casting images. The detected casting's text will be displayed along with the comparison result ("Match" or "No Match"). Press the 'q' key to exit the application.
